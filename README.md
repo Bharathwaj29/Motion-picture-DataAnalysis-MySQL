@@ -1,0 +1,2 @@
+# Motion-picture-DataAnalysis-MySQL
+Movie On Rent is a chain of movie rental stores operating in a certain country. It has a collection of movies in DVD and Blue disc formats. The management of the company wants to analyze what kind of movies are most often rented, which Genre they belong to, and which actors appeared in them. It will help the management stock up the inventory as per audience’s preferences for improved business. 
